@@ -1,0 +1,5 @@
+https://0636920240600.oreilly-jupyterhub.com/hub/home
+
+https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib
+
+matplotlib.org/users/intro.html
